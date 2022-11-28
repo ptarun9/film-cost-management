@@ -8,9 +8,9 @@ import Dashboard from './app/Connects/PostLogin/Dashboard/Dashboard';
 function App() {
   return (
     <ThemeProvider theme={theme}>
-   {/* { <Login/> } */}
-   { /*<Register/> */}
-   { <Dashboard/> }
+    {/* <Login/>  */}
+   {/* <Register/>  */}
+    <Dashboard/> 
     </ThemeProvider>
   );
 }

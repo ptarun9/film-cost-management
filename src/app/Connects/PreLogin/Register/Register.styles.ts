@@ -18,4 +18,7 @@ export const RegisterContainer = styled(Box)(({ theme }) => ({
         gap: 24,
         fontFamily:'Montserrat',
     },
+    '& .MuiButton-root':{
+        textTransform: 'UpperCase',
+        }
 }))
