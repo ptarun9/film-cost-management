@@ -19,6 +19,9 @@ export const LoginContainer = styled(Box)(({ theme }) => ({
         fontFamily:'Montserrat',
 
     },
+    '& .MuiButton-root':{
+        textTransform: 'UpperCase',
+        }
     // '& .MuiTypography-root.MuiLink-root MuiLink-underlineAlways':{
     //     '&:hover':{
     //         textDecorationColor:theme.palette.primary.dark,
