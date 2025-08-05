@@ -50,6 +50,9 @@ const Login = () => {
                     <Button variant="contained"  disableElevation sx={{width:'100%'}}>
                         Login
                     </Button>
+                    <Button variant="contained"  disableElevation sx={{width:'100%'}}>
+                        Login
+                    </Button>
                 </Box>
                 
                     <Link href="#">
